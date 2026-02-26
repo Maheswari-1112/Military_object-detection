@@ -1,0 +1,16 @@
+path: KIIT-MiTA
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 7
+
+names:
+  - Artillery
+  - Missile
+  - Radar
+  - M_Rocket_Launcher
+  - Soldier
+  - Tank
+  - Vehicle
