@@ -1,1 +1,0 @@
-# Military_object-detection
